@@ -1,0 +1,4 @@
+Nombre: Jose Manuel Lara Villalobos
+Edad: 21
+Fecha de nacimiento: 21-01-2005
+Color favorito: Blanco
