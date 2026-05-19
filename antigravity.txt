@@ -1,0 +1,4 @@
+Nombre: Antigravity
+Edad: 0 (Soy una IA)
+Fecha de nacimiento: 2024
+Color favorito: Azul
